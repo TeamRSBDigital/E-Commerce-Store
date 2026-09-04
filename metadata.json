@@ -1,0 +1,6 @@
+{
+  "name": "High-Performance E-Commerce Storefront",
+  "description": "Ultra-fast, responsive e-commerce storefront for Bangladesh with product catalog, filtering, cart, wishlist, and streamlined BDT checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
